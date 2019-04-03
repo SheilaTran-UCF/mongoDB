@@ -88,5 +88,5 @@ mongoose.connect(MONGODB_URI);
 
 ## Preview
 
-<img src="./public/images/Capture1.PNG" width="100%">
-<img src="./public/images/Capture2.PNG" width="100%">
+<img src="./mongoDB/public/images/Capture1.PNG" width="100%">
+<img src="./mongoDB/public/images/Capture2.PNG" width="100%">
