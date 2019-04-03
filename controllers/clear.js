@@ -1,3 +1,6 @@
+// Controller for our clear
+// ========================
+
 var db = require("../models");
 
 module.exports = {

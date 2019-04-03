@@ -1,5 +1,5 @@
-// Headline model
-// ==============
+// Headline in model
+// =================
 
 // Require mongoose
 var mongoose = require("mongoose");

@@ -1,4 +1,6 @@
-/* global bootbox */
+// saved in Javacript
+// ==================
+
 $(document).ready(function() {
   // Getting a reference to the article container div we will be rendering all articles inside of
   var articleContainer = $(".article-container");

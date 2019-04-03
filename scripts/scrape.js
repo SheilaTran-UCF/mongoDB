@@ -1,5 +1,5 @@
-// scrape script
-// =============
+// scrape in script
+// ================
 
 // Require axios and cheerio, making our scrapes possible
 var axios = require("axios");

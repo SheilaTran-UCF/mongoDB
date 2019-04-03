@@ -1,5 +1,5 @@
-// Note model
-// ==========
+// Note in model
+// =============
 
 // Require mongoose
 var mongoose = require("mongoose");
